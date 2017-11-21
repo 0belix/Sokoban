@@ -1,0 +1,29 @@
+﻿body {
+    background-color: black;
+    color: white;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+}
+
+.floor {
+    background-color: gray;
+    /*background: url(../img/floor.png)*/
+}
+
+.wall {
+    background-color: saddlebrown;
+    /*background: url(../img/wall.png)*/
+}
+
+.target {
+    background-color: gold;
+    /*background: url(../img/target.png)*/
+}
+
+td
+{
+    text-align:center;
+}
